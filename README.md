@@ -15,7 +15,7 @@ This is the most complete discord bot base you've ever seen! Developed by [@rinc
 Create a folder for the bot
 Open the terminal in that folder and paste the command below
 ```bash
-git clone https://github.com/rinckodev/community-vivi-music-discord-bot.git .
+git clone https://github.com/rinckodev/vivi-music-community-discord-bot.git .
 ```
 
 Install dependencies
